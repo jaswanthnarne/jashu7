@@ -1,38 +1,46 @@
-Welcome to My Project! 🚀
-----
+Welcome to My Portfolio! 🚀
 Prepared by: Jaswanth Narne
-----
-About the Project
-This project is a modern web application built with Vite, React, TypeScript, and Tailwind CSS. It features a sleek design and efficient performance, making it a great example of my work in web development.
+About the Portfolio
+Welcome to my personal portfolio! This project is built with Vite, React, TypeScript, and Tailwind CSS to showcase my skills and experience in Full Stack Development and Cybersecurity. The website features a modern, sleek design that reflects my passion for creating efficient and interactive web applications.
 
-How I Built This Project
+How I Built This Portfolio
 1️⃣ Development Tools & Technologies
-This project was developed using:
-✅ Vite – A fast build tool for modern web apps
-✅ TypeScript – Ensures type safety and better code quality
-✅ React – A powerful library for building interactive UIs
-✅ shadcn-ui – Provides beautiful pre-styled components
-✅ Tailwind CSS – A utility-first CSS framework for rapid styling
+This portfolio was developed using the following tools and frameworks:
 
-2️⃣ How to Run the Project Locally
-If you’d like to explore the code or modify the project, follow these steps:
+Vite – A fast, next-gen build tool for building modern web apps.
 
+TypeScript – Ensures better code quality and type safety across the application.
+
+React – The powerful JavaScript library for building dynamic user interfaces.
+
+shadcn-ui – A utility for beautiful, pre-styled components to speed up the UI development process.
+
+Tailwind CSS – A utility-first CSS framework for rapid and custom styling.
+
+2️⃣ Running the Project Locally
+If you'd like to explore or customize the portfolio, follow these steps to get it running on your machine:
+
+bash
+Copy
+Edit
 # Clone the repository
-git clone <YOUR_GIT_URL>
+git clone https://github.com/jaswanthnarne/jashu.git
 
-# Navigate to the project folder
-cd <YOUR_PROJECT_NAME>
+# Navigate into the project folder
+cd jashu
 
 # Install dependencies
 npm install
 
 # Start the development server
 npm run dev
-After running these commands, the project will be available at http://localhost:5173/ (or a similar port).
+After running these commands, open your browser and visit http://localhost:5173/ (or a similar port) to view the project locally.
 
 About Me
-I’m Jaswanth Narne, a passionate Full Stack Developer and Cybersecurity Enthusiast. I love building modern web applications and solving complex technical challenges.
+Hey there! I’m Jaswanth Narne, a passionate Full Stack Developer and Cybersecurity Enthusiast. I enjoy building modern, efficient web applications and solving complex technical challenges. When I'm not coding, you can find me diving into cybersecurity topics and making systems more secure.
 
-📫 Contact Me: GitHub
+📫 Feel free to contact me:
+GitHub
 
-Thank you for checking out my project! If you have any feedback or suggestions, feel free to reach out. 🚀
+Thank you for taking the time to check out my portfolio! If you have any feedback or suggestions, I’m always open to hearing from you. 🚀
+
